@@ -1,0 +1,136 @@
+2021-01-31 19:08:06,661 INFO [main][DemoBeanFactory.java:58] - public classcom.example.reflectdemo.HumanImpl extendscom.example.reflectdemo.Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.java.classs);
+
+1  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(
+1  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:19:05,065 INFO [main][DemoBeanFactory.java:59] - public classHumanImpl extends com.example.reflectdemo.Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.java.classs);
+
+1  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(
+1  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:21:13,212 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+1  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(
+1  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:23:46,130 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(
+public  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强")
+     super.com.example.reflectdemo.Human(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:26:36,182 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(
+public  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:27:54,103 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(
+public  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(sex)
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:42:19,909 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  com.example.reflectdemo.Human({
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(
+public  void  com.example.reflectdemo.Human( java.lang.String sex){
+     log.info("自动生成代码的日志增强");
+     super.HumanImpl(sex);
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:43:20,286 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  HumanImpl();
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:45:09,963 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  HumanImpl();
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}
+2021-01-31 19:47:51,832 INFO [main][DemoBeanFactory.java:60] - public class HumanImpl extends Human{
+private Logger log = org.slf4j.LoggerFactory.getLogger(HumanImpl.classs);
+
+public  void  HumanImpl();
+public  void  HumanImpl( java.lang.String sex){
+     log.info("自动生成代码的日志增强");
+     super.Human(sex);
+}
+public void publicMethod( java.lang.String name){
+     log.info("自动生成代码的日志增强")
+     super.publicMethod(name)
+}
+}

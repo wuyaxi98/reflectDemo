@@ -1,0 +1,4 @@
+2021-02-22 22:00:18,442 INFO [main][DemoBeanFactory.java:21] - ========
+2021-02-22 22:00:23,861 INFO [main][DemoBeanFactory.java:25] - 
+2021-02-22 22:17:04,683 INFO [main][HumanImpl.java:18] - ==
+2021-02-22 22:20:27,274 INFO [main][HumanImpl.java:14] - 增强日志
